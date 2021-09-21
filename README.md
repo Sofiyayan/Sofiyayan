@@ -6,6 +6,8 @@
 <h3> 👩‍💻 Sofiya Chobanyan | 💻 Web Scraping and Back End Developer | 📍 Yerevan, Armenia </h3>
 </div>
 
+<details>
+<summary> 🛠️ Technologies </summary>
 
 ### Languages
 
@@ -19,12 +21,17 @@
 <code><img height="30" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/-Selenium-brightgreen"></code>
 <code><img height="30" src="https://img.shields.io/badge/-Scrapy-green"></code>
+
 ### Databases
 
 <code><img height="30" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"></code>
+
+</details>
+
+### 🚀 Quick Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sofiyayan&show_icons=true&theme=tokyonight)
 
