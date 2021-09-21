@@ -8,19 +8,19 @@
 
 ### ⚙️ Some Tool and Tech I use
 
-<code><img height="30" src="images/python.png"></code>
-<code><img height="30" src="images/django.png"></code>
-<code><img height="30" src="images/flask.png"></code>
-<code><img height="30" src="images/scrapy.png"></code>
-  <code><img height="30" src="images/selenium.png"></code>
-<code><img height="30" src="images/bs.png"></code>
-<code><img height="30" src="images/Requests_Python_Logo.png"></code>
-<code><img height="30" src="images/postgre.png"></code>
-<code><img height="30" src="images/sqlite.png"></code>
-<code><img height="30" src="images/mongodb.png"></code>
-<code><img height="30" src="mages/redis.png"></code>
-<code><img height="30" src="images/google.png"></code>
-<code><img height="30" src="images/rest.png"></code>
+<code><img height="40" src="images/python.png"></code>
+<code><img height="40" src="images/django.png"></code>
+<code><img height="40" src="images/flask.png"></code>
+<code><img height="40" src="images/scrapy.png"></code>
+  <code><img height="40" src="images/selenium.png"></code>
+<code><img height="40" src="images/bs.png"></code>
+<code><img height="40" src="images/Requests_Python_Logo.png"></code>
+<code><img height="40" src="images/postgre.png"></code>
+<code><img height="40" src="images/sqlite.png"></code>
+<code><img height="40" src="images/mongodb.png"></code>
+<code><img height="40" src="mages/redis.png"></code>
+<code><img height="40" src="images/google.png"></code>
+<code><img height="40" src="images/rest.png"></code>
 <!--
 **Sofiyayan/Sofiyayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
