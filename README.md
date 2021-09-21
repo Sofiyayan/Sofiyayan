@@ -35,17 +35,17 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sofiyayan&show_icons=true&theme=tokyonight)
 
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
+### 💫 Latest Activities
 
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
 
+### Based on the following, am I a morning bird 🐥 or a night owl 🦉 ? 
 
+<!--START_SECTION:waka-->
 
-
+<!--END_SECTION:waka-->
 
 
 <!--
