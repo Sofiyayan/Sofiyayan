@@ -14,11 +14,11 @@
 <code><img height="40" src="images/scrapy.png"></code>
   <code><img height="40" src="images/selenium.png"></code>
 <code><img height="40" src="images/bs.png"></code>
-<code><img height="40" src="images/Requests_Python_Logo.png"></code>
+<code><img height="40" src="images/requests.png"></code>
 <code><img height="40" src="images/postgre.png"></code>
-<code><img height="40" src="images/sqlite.png"></code>
-<code><img height="40" src="images/mongodb.png"></code>
-<code><img height="40" src="mages/redis.png"></code>
+<code><img height="40" src="images/sqlite.jpg"></code>
+<code><img height="40" src="images/mongodb.jpg"></code>
+<code><img height="40" src="images/redis.png"></code>
 <code><img height="40" src="images/google.png"></code>
 <code><img height="40" src="images/rest.png"></code>
 <!--
