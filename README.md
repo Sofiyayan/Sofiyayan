@@ -8,7 +8,7 @@
 ### Nerdy joke of the day
 
 <p align="center">
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
 </p>
 
 ### 🛠️ Technologies
