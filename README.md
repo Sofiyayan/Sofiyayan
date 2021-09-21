@@ -34,11 +34,6 @@
 <code><img height="30" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"></code>
 
 
-
-### 🚀 Quick Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sofiyayan&show_icons=true&theme=tokyonight)
-
 ### 💫 Latest Activities
 
 <!--START_SECTION:activity-->
@@ -173,8 +168,12 @@
 </details>
 <!--END_SECTION:activity-->
 
-### Based on the following, am I an early bird 🐥 or a night owl 🦉 ? 
 
+### 🚀 Quick Stats and more
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sofiyayan&show_icons=true&theme=tokyonight)
+
+### 
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
