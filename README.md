@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Sofiyayan/Sofiyayan/images/github.git" alt="Hello, I am Sofiiya ❤">
+  <img src="https://github.com/Sofiyayan/Sofiyayan/images/github" alt="Hello, I am Sofiiya ❤">
 </p>
 
 <!--
