@@ -3,8 +3,9 @@
 </p>
 
 <div align="center">
-<h3><img style="vertical-align:middle" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=ecf05e47d1jajgi3i21wutdl4h2yp5ko3hfwukcn7x2jkzhq&rid=giphy.gif&ct=g" width="40"> 👩‍💻 Sofiya Chobanyan | 💻 Web Scraping and Back End Developer | 📍 Yerevan, Armenia </h3>
+<h3> 👩‍💻 Sofiya Chobanyan | 💻 Web Scraping and Back End Developer | 📍 Yerevan, Armenia </h3>
 </div>
+
 
 ### Languages
 
@@ -25,6 +26,7 @@
 <code><img height="30" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"></code>
 
+<!--START_SECTION:activity-->
 
 <!--
 **Sofiyayan/Sofiyayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
