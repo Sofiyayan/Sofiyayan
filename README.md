@@ -6,6 +6,10 @@
 <h3> 👩‍💻 Sofiya Chobanyan | 💻 Web Scraping and Back End Developer | 📍 Yerevan, Armenia </h3>
 </div>
 
+<!-- Markdown -->
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+
 
 ### 🛠️ Technologies
 
