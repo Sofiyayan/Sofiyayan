@@ -169,7 +169,7 @@
 <!--END_SECTION:activity-->
 
 
-### 🚀 Quick Stats and more
+### 🚀 Quick Stats and More...
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sofiyayan&show_icons=true&theme=tokyonight)
 
