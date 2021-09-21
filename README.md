@@ -1,14 +1,11 @@
-<p align="center">
-  <img src="images/github.gif" alt="Hello, I am Sofiya" />
-</p>
+<img src="images/github.gif" alt="Hello, I am Sofiya" />
 
-<div align="center">
 <h3> 👩‍💻 Sofiya Chobanyan | 💻 Web Scraping and Back End Developer | 📍 Yerevan, Armenia </h3>
-</div>
 
-<!-- Markdown -->
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+### Nerdy joke of the day
+
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 
 ### 🛠️ Technologies
