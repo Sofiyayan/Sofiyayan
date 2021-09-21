@@ -1,4 +1,7 @@
-![](images/github.gif)
+<p align="center">
+  <img src="images/github.gif" alt="Hello, I am Sofiya" />
+</p>
+
 <!--
 **Sofiyayan/Sofiyayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
