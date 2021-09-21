@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/github.gif" alt="Hello, I am Sofiya" />
+  <img src="images/github.gif" alt="Hello, I am Sofiya" width="600" />
 </p>
 
 <div align="center">
@@ -28,6 +28,7 @@
 
 <!--START_SECTION:activity-->
 
+<!--END_SECTION:activity-->
 <!--
 **Sofiyayan/Sofiyayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
