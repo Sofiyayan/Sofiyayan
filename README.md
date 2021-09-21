@@ -169,7 +169,7 @@
 </details>
 <!--END_SECTION:activity-->
 
-### Based on the following, am I a morning bird 🐥 or a night owl 🦉 ? 
+### Based on the following, am I an early bird 🐥 or a night owl 🦉 ? 
 
 <!--START_SECTION:waka-->
 
