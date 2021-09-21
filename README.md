@@ -176,7 +176,75 @@
 ### Based on the following, am I an early bird 🐥 or a night owl 🦉 ? 
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-100-blue)
 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-228073%20lines%20of%20code-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 74 Contributions in the Year 2021
+ > 
+> 📦 5.3 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 12 Public Repositories 
+ > 
+> 🔑 8 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+🌆 Daytime    20 commits     █████░░░░░░░░░░░░░░░░░░░░   19.61% 
+🌃 Evening    67 commits     ████████████████░░░░░░░░░   65.69% 
+🌙 Night      15 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.71%
+
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday       14 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.73% 
+Tuesday      61 commits     ███████████████░░░░░░░░░░   59.8% 
+Wednesday    19 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.63% 
+Thursday     3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.94% 
+Friday       1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.98% 
+Saturday     2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.96% 
+Sunday       2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.96%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Yerevan
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   40 repos            █████████████████████████   100.0%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/Sofiyayan/Sofiyayan/master/charts/bar_graph.png) 
+
+
+ Last Updated on 21/09/2021
 <!--END_SECTION:waka-->
 
 
