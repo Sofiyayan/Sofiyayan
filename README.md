@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=ecf05e47d1jajgi3i21wutdl4h2yp5ko3hfwukcn7x2jkzhq&rid=giphy.gif&ct=g" width="30"> 👩‍💻 Sofiya Chobanyan | 💻 Web Scraping and Back End Developer | 📍 Yerevan, Armenia ></h3>
+<h3><img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=ecf05e47d1jajgi3i21wutdl4h2yp5ko3hfwukcn7x2jkzhq&rid=giphy.gif&ct=g" width="40"> 👩‍💻 Sofiya Chobanyan | 💻 Web Scraping and Back End Developer | 📍 Yerevan, Armenia </h3>
 </div>
 
 <!--
