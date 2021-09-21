@@ -20,7 +20,8 @@
 <code><img height="40" src="images/mongodb.jpg"></code>
 <code><img height="40" src="images/redis.png"></code>
 <code><img height="40" src="images/google.png"></code>
-<code><img height="40" src="images/rest.png"></code>
+<code><img height="40" src="images/c++.png"></code>
+
 <!--
 **Sofiyayan/Sofiyayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
