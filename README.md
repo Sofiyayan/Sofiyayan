@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://github.com/Sofiyayan/Sofiyayan/images/github.git" alt="Hello, I am Sofiiya ❤">
+</p>
 
 <!--
 **Sofiyayan/Sofiyayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
