@@ -174,11 +174,6 @@
 `[06/23 14:21]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [scrapy/scrapy](https://github.com/scrapy/scrapy)  
 `[06/23 11:01]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [kiteco/kite-python-blog-post-code](https://github.com/kiteco/kite-python-blog-post-code)  
 `[06/23 10:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [geekan/scrapy-examples](https://github.com/geekan/scrapy-examples)  
-`[06/22 09:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒Sofiyayan/google_api`</span>  
-`[06/22 09:37]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `main` from <span title="Private Repo">`🔒Sofiyayan/google_api`</span>  
-`[06/22 09:36]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `master` in <span title="Private Repo">`🔒Sofiyayan/google_api`</span>  
-`[06/22 09:28]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `main` in <span title="Private Repo">`🔒Sofiyayan/google_api`</span>  
-`[06/22 09:27]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒Sofiyayan/google_api`</span>  
 
 </details>
 <!--END_SECTION:activity-->
