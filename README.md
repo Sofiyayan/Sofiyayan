@@ -37,6 +37,7 @@
 ### 💫 Latest Activities
 
 <!--START_SECTION:activity-->
+`[09/23 19:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒Sofiyayan/order_migrator`</span>  
 `[09/23 13:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒Sofiyayan/order_migrator`</span>  
 `[09/23 11:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒Sofiyayan/order_migrator`</span>  
 `[09/23 11:21]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `master` in <span title="Private Repo">`🔒Sofiyayan/order_migrator`</span>  
@@ -46,10 +47,10 @@
 `[09/22 00:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Sofiyayan/Sofiyayan](https://github.com/Sofiyayan/Sofiyayan)  
 `[09/21 20:11]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Olanetsoft/awesome-hackathon-projects](https://github.com/Olanetsoft/awesome-hackathon-projects)  
 `[09/21 20:11]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)  
-`[09/21 20:11]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)  
 
 <details><summary>Show More</summary>
 
+`[09/21 20:11]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)  
 `[09/21 20:11]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions)  
 `[09/21 20:11]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)  
 `[09/21 20:10]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)  
