@@ -188,10 +188,6 @@
 `[07/01 18:07]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `master` in <span title="Private Repo">`🔒Sofiyayan/booking_crawler`</span>  
 `[07/01 18:00]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `main` in <span title="Private Repo">`🔒Sofiyayan/booking_crawler`</span>  
 `[07/01 18:00]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒Sofiyayan/booking_crawler`</span>  
-`[06/23 14:56]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [scrapy/quotesbot](https://github.com/scrapy/quotesbot)  
-`[06/23 14:21]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [scrapy/scrapy](https://github.com/scrapy/scrapy)  
-`[06/23 11:01]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [kiteco/kite-python-blog-post-code](https://github.com/kiteco/kite-python-blog-post-code)  
-`[06/23 10:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [geekan/scrapy-examples](https://github.com/geekan/scrapy-examples)  
 
 </details>
 <!--END_SECTION:activity-->
