@@ -203,7 +203,7 @@
 
 ### 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-223-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-235870%20lines%20of%20code-blue)
 
@@ -211,7 +211,7 @@
 
 > 🏆 77 Contributions in the Year 2021
  > 
-> 📦 5.4 kB Used in GitHub's Storage 
+> 📦 26.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -275,7 +275,7 @@ Python                   47 repos            ███████████�
 ![Chart not found](https://raw.githubusercontent.com/Sofiyayan/Sofiyayan/master/charts/bar_graph.png) 
 
 
- Last Updated on 23/09/2021
+ Last Updated on 24/09/2021
 <!--END_SECTION:waka-->
 
 
