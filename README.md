@@ -202,9 +202,6 @@
 `[07/20 19:11]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Sofiyayan/alo-grant](https://github.com/Sofiyayan/alo-grant)  
 `[07/17 12:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [devvid/python-common-crawl-amazon-example](https://github.com/devvid/python-common-crawl-amazon-example)  
 `[07/14 13:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [aws-samples/aws-python-sample](https://github.com/aws-samples/aws-python-sample)  
-`[07/07 15:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒Sofiyayan/factory`</span>  
-`[07/07 14:50]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `master` in <span title="Private Repo">`🔒Sofiyayan/ddd`</span>  
-`[07/07 14:50]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒Sofiyayan/ddd`</span>  
 
 </details>
 <!--END_SECTION:activity-->
