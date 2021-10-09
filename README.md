@@ -37,6 +37,7 @@
 ### 💫 Latest Activities
 
 <!--START_SECTION:activity-->
+`[10/09 15:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒Sofiyayan/order_migrator`</span>  
 `[10/09 00:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Sofiyayan/Sofiyayan](https://github.com/Sofiyayan/Sofiyayan)  
 `[10/08 15:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒Sofiyayan/order_migrator`</span>  
 `[10/08 00:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Sofiyayan/Sofiyayan](https://github.com/Sofiyayan/Sofiyayan)  
@@ -46,10 +47,10 @@
 `[10/06 00:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Sofiyayan/Sofiyayan](https://github.com/Sofiyayan/Sofiyayan)  
 `[10/05 22:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in <span title="Private Repo">`🔒Sofiyayan/order_migrator`</span>  
 `[10/05 00:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [Sofiyayan/Sofiyayan](https://github.com/Sofiyayan/Sofiyayan)  
-`[10/04 10:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒Levon-98/allabolag_scraper`</span>  
 
 <details><summary>Show More</summary>
 
+`[10/04 10:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒Levon-98/allabolag_scraper`</span>  
 `[10/04 00:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Sofiyayan/Sofiyayan](https://github.com/Sofiyayan/Sofiyayan)  
 `[10/03 21:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in <span title="Private Repo">`🔒Levon-98/allabolag_scraper`</span>  
 `[10/03 13:22]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [WebScrapingAPI/python-sdk](https://github.com/WebScrapingAPI/python-sdk)  
