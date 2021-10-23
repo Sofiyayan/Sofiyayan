@@ -37,7 +37,7 @@
 ### 💫 Latest Activities
 
 <!--START_SECTION:activity-->
-`[10/23 15:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in <span title="Private Repo">`🔒Sofiyayan/order_migrator`</span>  
+`[10/23 16:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `19` commits in <span title="Private Repo">`🔒Sofiyayan/order_migrator`</span>  
 `[10/23 00:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [Sofiyayan/Sofiyayan](https://github.com/Sofiyayan/Sofiyayan)  
 `[10/19 15:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in <span title="Private Repo">`🔒Sofiyayan/order_migrator`</span>  
 `[10/19 00:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Sofiyayan/Sofiyayan](https://github.com/Sofiyayan/Sofiyayan)  
@@ -186,10 +186,7 @@
 `[08/25 07:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)  
 `[08/23 22:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in <span title="Private Repo">`🔒Sofiyayan/etl_sparkers`</span>  
 `[08/23 19:11]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [AndyLPK247/python-testing-101](https://github.com/AndyLPK247/python-testing-101)  
-`[08/23 14:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in <span title="Private Repo">`🔒Sofiyayan/etl_sparkers`</span>  
-`[08/22 19:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [getsentry/responses](https://github.com/getsentry/responses)  
-`[08/22 16:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cgoldberg/python-unittest-tutorial](https://github.com/cgoldberg/python-unittest-tutorial)  
-`[08/22 15:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [se2p/pynguin](https://github.com/se2p/pynguin)  
+`[08/23 14:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒Sofiyayan/etl_sparkers`</span>  
 
 </details>
 <!--END_SECTION:activity-->
