@@ -183,7 +183,6 @@
 `[08/26 08:39]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sysprog21/lkmpg](https://github.com/sysprog21/lkmpg)  
 `[08/26 08:39]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mps-youtube/pafy](https://github.com/mps-youtube/pafy)  
 `[08/25 07:56]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [davemachado/public-api](https://github.com/davemachado/public-api)  
-`[08/25 07:56]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [clemfromspace/scrapy-selenium](https://github.com/clemfromspace/scrapy-selenium)  
 
 </details>
 <!--END_SECTION:activity-->
