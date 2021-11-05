@@ -164,7 +164,6 @@
 `[09/06 11:08]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on `4dcacf9` in <span title="Private Repo">`🔒AARRSSEENN/Python-lvl-1-Arsen-Sargsyan`</span>  
 `[09/06 11:02]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked <span title="Private Repo">`🔒VazgenAyv/Python_lvl_1_Vazgen_Ayvazyan`</span> to <span title="Private Repo">`🔒Sofiyayan/Python_lvl_1_Vazgen_Ayvazyan`</span>  
 `[09/02 11:47]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked <span title="Private Repo">`🔒is666/Python_Lvl_1_Isahak_Kareyan`</span> to <span title="Private Repo">`🔒Sofiyayan/Python_Lvl_1_Isahak_Kareyan`</span>  
-`[09/02 11:26]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked <span title="Private Repo">`🔒VazgenAyv/Python_lvl_1_Vazgen_Ayvazyan`</span> to <span title="Private Repo">`🔒Sofiyayan/Python_lvl_1_Vazgen_Ayvazyan`</span>  
 
 </details>
 <!--END_SECTION:activity-->
