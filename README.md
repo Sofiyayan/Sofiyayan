@@ -37,9 +37,19 @@
 ### 💫 Latest Activities
 
 <!--START_SECTION:activity-->
+`[11/13 22:30]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#3` in <span title="Private Repo">`🔒Alien4you/Python_Lvl1_Aram_Ramazyan`</span>  
+`[11/13 22:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒Sofiyayan/Python_Lvl1_Aram_Ramazyan`</span>  
+`[11/13 22:26]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked <span title="Private Repo">`🔒Alien4you/Python_Lvl1_Aram_Ramazyan`</span> to <span title="Private Repo">`🔒Sofiyayan/Python_Lvl1_Aram_Ramazyan`</span>  
+`[11/13 22:25]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed `#2` in <span title="Private Repo">`🔒AndranikVoskanyan/Python-lvl-1_Andranik_Voskanyan`</span>  
+`[11/13 22:25]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed `#2` in <span title="Private Repo">`🔒AndranikVoskanyan/Python-lvl-1_Andranik_Voskanyan`</span>  
+`[11/13 22:23]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#2` in <span title="Private Repo">`🔒AndranikVoskanyan/Python-lvl-1_Andranik_Voskanyan`</span>  
+`[11/13 22:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒Sofiyayan/Python-lvl-1_Andranik_Voskanyan`</span>  
 `[11/13 22:16]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked <span title="Private Repo">`🔒AndranikVoskanyan/Python-lvl-1_Andranik_Voskanyan`</span> to <span title="Private Repo">`🔒Sofiyayan/Python-lvl-1_Andranik_Voskanyan`</span>  
 `[11/13 22:09]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on `#1` in <span title="Private Repo">`🔒Kulijanyan/Python_Lvl_1_Kulijanyan_Georgi`</span>  
 `[11/13 22:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒Sofiyayan/Python_Lvl_1_Kulijanyan_Georgi`</span>  
+
+<details><summary>Show More</summary>
+
 `[11/13 21:50]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked <span title="Private Repo">`🔒Kulijanyan/Python_Lvl_1_Kulijanyan_Georgi`</span> to <span title="Private Repo">`🔒Sofiyayan/Python_Lvl_1_Kulijanyan_Georgi`</span>  
 `[11/13 00:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [Sofiyayan/Sofiyayan](https://github.com/Sofiyayan/Sofiyayan)  
 `[11/10 19:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in <span title="Private Repo">`🔒Sofiyayan/upwork_schedule_bot`</span>  
@@ -47,9 +57,6 @@
 `[11/10 00:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [Sofiyayan/Sofiyayan](https://github.com/Sofiyayan/Sofiyayan)  
 `[11/05 15:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒Sofiyayan/order_migrator`</span>  
 `[11/05 00:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Sofiyayan/Sofiyayan](https://github.com/Sofiyayan/Sofiyayan)  
-
-<details><summary>Show More</summary>
-
 `[11/03 13:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in <span title="Private Repo">`🔒Sofiyayan/order_migrator`</span>  
 `[11/03 00:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Sofiyayan/Sofiyayan](https://github.com/Sofiyayan/Sofiyayan)  
 `[11/02 18:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒Sofiyayan/order_migrator`</span>  
@@ -150,9 +157,7 @@
 `[09/21 14:38]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rishavanand/github-profilinator](https://github.com/rishavanand/github-profilinator)  
 `[09/21 14:38]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [khalby786/REHeader](https://github.com/khalby786/REHeader)  
 `[09/21 14:38]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)  
-`[09/21 14:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [Sofiyayan/Sofiyayan](https://github.com/Sofiyayan/Sofiyayan)  
-`[09/21 13:34]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [Defcon27/Defcon27](https://github.com/Defcon27/Defcon27) to [Sofiyayan/Defcon27](https://github.com/Sofiyayan/Defcon27)  
-`[09/21 13:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [Sofiyayan/Sofiyayan](https://github.com/Sofiyayan/Sofiyayan)  
+`[09/21 14:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Sofiyayan/Sofiyayan](https://github.com/Sofiyayan/Sofiyayan)  
 
 </details>
 <!--END_SECTION:activity-->
