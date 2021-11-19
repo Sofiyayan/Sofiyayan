@@ -37,6 +37,7 @@
 ### 💫 Latest Activities
 
 <!--START_SECTION:activity-->
+`[11/19 13:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒Sofiyayan/order_migrator`</span>  
 `[11/19 00:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `12` commits in [Sofiyayan/Sofiyayan](https://github.com/Sofiyayan/Sofiyayan)  
 `[11/13 22:30]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#3` in <span title="Private Repo">`🔒Alien4you/Python_Lvl1_Aram_Ramazyan`</span>  
 `[11/13 22:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒Sofiyayan/Python_Lvl1_Aram_Ramazyan`</span>  
@@ -46,10 +47,10 @@
 `[11/13 22:23]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#2` in <span title="Private Repo">`🔒AndranikVoskanyan/Python-lvl-1_Andranik_Voskanyan`</span>  
 `[11/13 22:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒Sofiyayan/Python-lvl-1_Andranik_Voskanyan`</span>  
 `[11/13 22:16]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked <span title="Private Repo">`🔒AndranikVoskanyan/Python-lvl-1_Andranik_Voskanyan`</span> to <span title="Private Repo">`🔒Sofiyayan/Python-lvl-1_Andranik_Voskanyan`</span>  
-`[11/13 22:09]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on `#1` in <span title="Private Repo">`🔒Kulijanyan/Python_Lvl_1_Kulijanyan_Georgi`</span>  
 
 <details><summary>Show More</summary>
 
+`[11/13 22:09]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on `#1` in <span title="Private Repo">`🔒Kulijanyan/Python_Lvl_1_Kulijanyan_Georgi`</span>  
 `[11/13 22:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒Sofiyayan/Python_Lvl_1_Kulijanyan_Georgi`</span>  
 `[11/13 21:50]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked <span title="Private Repo">`🔒Kulijanyan/Python_Lvl_1_Kulijanyan_Georgi`</span> to <span title="Private Repo">`🔒Sofiyayan/Python_Lvl_1_Kulijanyan_Georgi`</span>  
 `[11/13 00:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [Sofiyayan/Sofiyayan](https://github.com/Sofiyayan/Sofiyayan)  
@@ -147,7 +148,6 @@
 `[09/21 18:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [Sofiyayan/Sofiyayan](https://github.com/Sofiyayan/Sofiyayan)  
 `[09/21 17:45]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [guilyx/guilyx](https://github.com/guilyx/guilyx) to [Sofiyayan/guilyx](https://github.com/Sofiyayan/guilyx)  
 `[09/21 17:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `18` commits in [Sofiyayan/Sofiyayan](https://github.com/Sofiyayan/Sofiyayan)  
-`[09/21 14:39]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)  
 
 </details>
 <!--END_SECTION:activity-->
