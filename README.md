@@ -149,7 +149,7 @@
 
 > 🏆 80 Contributions in the Year 2021
  > 
-> 📦 28.0 kB Used in GitHub's Storage 
+> 📦 28.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -212,7 +212,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Sofiyayan/Sofiyayan/master/charts/bar_graph.png) 
 
 
- Last Updated on 18/12/2021
+ Last Updated on 19/12/2021
 <!--END_SECTION:waka-->
 
 
