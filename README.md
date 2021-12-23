@@ -138,7 +138,7 @@
 
 ### 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-238%20Thousand%20lines%20of%20code-blue)
 
@@ -183,14 +183,14 @@ Sunday       13 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Yerevan
 
 💬 Programming Languages: 
-Python                   5 hrs 19 mins       ████████████████████████░   97.49% 
-GitIgnore file           8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.51%
+Python                   4 hrs 38 mins       █████████████████████████   99.97% 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
 
 🔥 Editors: 
-PyCharm                  5 hrs 27 mins       █████████████████████████   100.0%
+PyCharm                  4 hrs 38 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  5 hrs 27 mins       █████████████████████████   100.0%
+Windows                  4 hrs 38 mins       █████████████████████████   100.0%
 
 ```
 
@@ -208,7 +208,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Sofiyayan/Sofiyayan/master/charts/bar_graph.png) 
 
 
- Last Updated on 22/12/2021
+ Last Updated on 23/12/2021
 <!--END_SECTION:waka-->
 
 
