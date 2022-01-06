@@ -191,7 +191,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Sofiyayan/Sofiyayan/master/charts/bar_graph.png) 
 
 
- Last Updated on 05/01/2022
+ Last Updated on 06/01/2022
 <!--END_SECTION:waka-->
 
 
