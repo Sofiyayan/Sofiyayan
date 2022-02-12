@@ -78,7 +78,7 @@
 `[11/13 22:09]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on `#1` in <span title="Private Repo">`🔒Kulijanyan/Python_Lvl_1_Kulijanyan_Georgi`</span>  
 `[11/13 22:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒Sofiyayan/Python_Lvl_1_Kulijanyan_Georgi`</span>  
 `[11/13 21:50]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked <span title="Private Repo">`🔒Kulijanyan/Python_Lvl_1_Kulijanyan_Georgi`</span> to <span title="Private Repo">`🔒Sofiyayan/Python_Lvl_1_Kulijanyan_Georgi`</span>  
-`[11/13 00:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Sofiyayan/Sofiyayan](https://github.com/Sofiyayan/Sofiyayan)  
+`[11/13 00:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Sofiyayan/Sofiyayan](https://github.com/Sofiyayan/Sofiyayan)  
 
 </details>
 <!--END_SECTION:activity-->
