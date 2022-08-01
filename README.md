@@ -37,6 +37,8 @@
 ### 💫 Latest Activities
 
 <!--START_SECTION:activity-->
+`[08/01 12:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [samtools/bcftools](https://github.com/samtools/bcftools)  
+`[08/01 12:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [genome/docker-bcftools](https://github.com/genome/docker-bcftools)  
 `[08/01 11:42]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [awslabs/genomics-secondary-analysis-using-aws-step-functions-and-aws-batch](https://github.com/awslabs/genomics-secondary-analysis-using-aws-step-functions-and-aws-batch)  
 `[08/01 01:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `36` commits in [Sofiyayan/Sofiyayan](https://github.com/Sofiyayan/Sofiyayan)  
 `[07/12 18:38]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [micheles/decorator](https://github.com/micheles/decorator)  
