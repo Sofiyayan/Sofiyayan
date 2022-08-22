@@ -105,17 +105,13 @@ Sunday       13 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Yerevan
 
 💬 Programming Languages: 
-Python                   1 hr 59 mins        ███████████████████░░░░░░   75.56% 
-Docker                   34 mins             █████░░░░░░░░░░░░░░░░░░░░   22.2% 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.11% 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09% 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  2 hrs 37 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 hrs 37 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -133,7 +129,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Sofiyayan/Sofiyayan/master/charts/bar_graph.png) 
 
 
- Last Updated on 21/08/2022 01:31:06 UTC
+ Last Updated on 22/08/2022 01:31:17 UTC
 <!--END_SECTION:waka-->
 
 
