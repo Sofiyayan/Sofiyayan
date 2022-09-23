@@ -58,7 +58,7 @@
 
 ### 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-355%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-355%20hrs%2023%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -132,7 +132,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Sofiyayan/Sofiyayan/master/charts/bar_graph.png) 
 
 
- Last Updated on 22/09/2022 01:54:42 UTC
+ Last Updated on 23/09/2022 02:02:30 UTC
 <!--END_SECTION:waka-->
 
 
