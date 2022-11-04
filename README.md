@@ -50,9 +50,9 @@
 
 ### 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-370%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-373%20hrs%2050%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-238%20Thousand%20lines%20of%20code-blue)
 
@@ -97,17 +97,17 @@ Sunday       8 commits      ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Yerevan
 
 💬 Programming Languages: 
-Python                   3 hrs 24 mins       █████████████████████████   99.88% 
-PythonStub               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1% 
+Python                   4 hrs 56 mins       █████████████████████████   99.91% 
+PythonStub               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07% 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01% 
 textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01% 
 GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-PyCharm                  3 hrs 24 mins       █████████████████████████   100.0%
+PyCharm                  4 hrs 56 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      3 hrs 24 mins       █████████████████████████   100.0%
+Mac                      4 hrs 56 mins       █████████████████████████   100.0%
 
 ```
 
@@ -125,7 +125,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Sofiyayan/Sofiyayan/master/charts/bar_graph.png) 
 
 
- Last Updated on 03/11/2022 01:31:01 UTC
+ Last Updated on 04/11/2022 01:45:03 UTC
 <!--END_SECTION:waka-->
 
 
