@@ -111,8 +111,8 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   54 repos            █████████████████████████   98.18 % 
-HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+Python                   53 repos            █████████████████████████   98.15 % 
+HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 ```
 
 
@@ -122,7 +122,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sofiyayan/Sofiyayan/master/assets/bar_graph.png)
 
 
- Last Updated on 23/05/2023 01:05:10 UTC
+ Last Updated on 24/05/2023 01:07:42 UTC
 <!--END_SECTION:waka-->
 
 
