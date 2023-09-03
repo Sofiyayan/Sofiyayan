@@ -59,7 +59,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 28.1 kB Used in GitHub's Storage 
+> 📦 28.2 kB Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2023
  > 
@@ -119,7 +119,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sofiyayan/Sofiyayan/master/assets/bar_graph.png)
 
 
- Last Updated on 02/09/2023 00:53:14 UTC
+ Last Updated on 03/09/2023 00:57:40 UTC
 <!--END_SECTION:waka-->
 
 
