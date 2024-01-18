@@ -48,10 +48,6 @@
 `[10/23 23:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [coqui-ai/TTS](https://github.com/coqui-ai/TTS)  
 `[10/23 00:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [Sofiyayan/Sofiyayan](https://github.com/Sofiyayan/Sofiyayan)  
 
-<details><summary>Show More</summary>
-
-`[10/17 17:20]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [facebookresearch/codellama](https://github.com/facebookresearch/codellama)  
-
 </details>
 <!--END_SECTION:activity-->
 
