@@ -37,19 +37,23 @@
 ### 💫 Latest Activities
 
 <!--START_SECTION:activity-->
+`[01/19 11:34]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `feature/FT-1677-user-model` from <span title="Private Repo">`🔒Flashtag-Inc/flashtap-data-lib`</span>  
+`[01/19 11:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-data-lib`</span>  
+`[01/19 11:34]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR `#7` in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-data-lib`</span>  
+`[01/19 11:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-data-lib`</span>  
 `[01/19 01:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Sofiyayan/Sofiyayan](https://github.com/Sofiyayan/Sofiyayan)  
 `[01/18 18:37]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#7` in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-data-lib`</span>  
 `[01/18 18:37]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR `#6` in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-data-lib`</span>  
 `[01/18 18:36]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feature/FT-1677-user-model` in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-data-lib`</span>  
 `[01/18 01:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Sofiyayan/Sofiyayan](https://github.com/Sofiyayan/Sofiyayan)  
 `[01/16 15:29]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#6` in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-data-lib`</span>  
+
+<details><summary>Show More</summary>
+
 `[01/16 15:28]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feature/FT-1947-user-models` in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-data-lib`</span>  
 `[01/16 01:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `81` commits in [Sofiyayan/Sofiyayan](https://github.com/Sofiyayan/Sofiyayan)  
 `[10/24 19:47]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [elevenlabs/elevenlabs-python](https://github.com/elevenlabs/elevenlabs-python)  
 `[10/24 19:47]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [enhuiz/vall-e](https://github.com/enhuiz/vall-e)  
-
-<details><summary>Show More</summary>
-
 `[10/24 19:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [suno-ai/bark](https://github.com/suno-ai/bark)  
 `[10/24 00:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Sofiyayan/Sofiyayan](https://github.com/Sofiyayan/Sofiyayan)  
 `[10/23 23:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [coqui-ai/TTS](https://github.com/coqui-ai/TTS)  
