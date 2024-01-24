@@ -66,7 +66,6 @@
 `[10/24 19:47]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [enhuiz/vall-e](https://github.com/enhuiz/vall-e)  
 `[10/24 19:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [suno-ai/bark](https://github.com/suno-ai/bark)  
 `[10/24 00:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Sofiyayan/Sofiyayan](https://github.com/Sofiyayan/Sofiyayan)  
-`[10/23 23:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [coqui-ai/TTS](https://github.com/coqui-ai/TTS)  
 
 </details>
 <!--END_SECTION:activity-->
