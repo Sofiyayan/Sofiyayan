@@ -37,6 +37,7 @@
 ### 💫 Latest Activities
 
 <!--START_SECTION:activity-->
+`[01/25 01:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Sofiyayan/Sofiyayan](https://github.com/Sofiyayan/Sofiyayan)  
 `[01/24 14:27]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#2` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
 `[01/24 14:26]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#8` in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-data-lib`</span>  
 `[01/24 14:25]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `hotfix/remove_enum_classes` in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-data-lib`</span>  
@@ -46,10 +47,10 @@
 `[01/23 20:57]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql)  
 `[01/23 19:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [yezz123/DogeAPI](https://github.com/yezz123/DogeAPI)  
 `[01/23 19:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [egbakou/coronavirus-tg-api](https://github.com/egbakou/coronavirus-tg-api)  
-`[01/23 19:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices)  
 
 <details><summary>Show More</summary>
 
+`[01/23 19:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices)  
 `[01/23 19:32]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [nsidnev/fastapi-realworld-example-app](https://github.com/nsidnev/fastapi-realworld-example-app)  
 `[01/23 19:32]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mjhea0/awesome-fastapi](https://github.com/mjhea0/awesome-fastapi)  
 `[01/23 01:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Sofiyayan/Sofiyayan](https://github.com/Sofiyayan/Sofiyayan)  
