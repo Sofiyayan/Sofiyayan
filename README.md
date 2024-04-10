@@ -37,7 +37,7 @@
 ### 💫 Latest Activities
 
 <!--START_SECTION:activity-->
-`[04/10 12:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-lambda-video-api`</span>  
+`[04/10 13:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-lambda-video-api`</span>  
 `[04/10 11:52]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#6` in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-lambda-video-api`</span>  
 `[04/10 11:50]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feat/stories` in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-lambda-video-api`</span>  
 `[04/10 00:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Sofiyayan/Sofiyayan](https://github.com/Sofiyayan/Sofiyayan)  
