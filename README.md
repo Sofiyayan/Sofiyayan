@@ -223,8 +223,6 @@
 `[01/18 18:37]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR `#6` in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-data-lib`</span>  
 `[01/18 18:36]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feature/FT-1677-user-model` in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-data-lib`</span>  
 `[01/18 01:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Sofiyayan/Sofiyayan](https://github.com/Sofiyayan/Sofiyayan)  
-`[01/16 15:29]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#6` in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-data-lib`</span>  
-`[01/16 15:28]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feature/FT-1947-user-models` in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-data-lib`</span>  
 
 </details>
 <!--END_SECTION:activity-->
