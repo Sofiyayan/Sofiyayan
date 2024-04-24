@@ -37,6 +37,7 @@
 ### 💫 Latest Activities
 
 <!--START_SECTION:activity-->
+`[04/24 00:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Sofiyayan/Sofiyayan](https://github.com/Sofiyayan/Sofiyayan)  
 `[04/23 10:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
 `[04/23 10:57]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed `#44` in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-data-lib`</span>  
 `[04/23 00:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Sofiyayan/Sofiyayan](https://github.com/Sofiyayan/Sofiyayan)  
@@ -46,10 +47,10 @@
 `[04/22 23:31]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feat/admin_panel_changes` in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-data-lib`</span>  
 `[04/22 23:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `159` commits in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-data-lib`</span>  
 `[04/22 23:30]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feat/post_status` in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-lambda-video-api`</span>  
-`[04/22 23:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `25` commits in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-lambda-video-api`</span>  
 
 <details><summary>Show More</summary>
 
+`[04/22 23:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `25` commits in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-lambda-video-api`</span>  
 `[04/22 23:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `160` commits in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
 `[04/22 23:29]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feat/admin_ad_ons` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
 `[04/22 01:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [Sofiyayan/Sofiyayan](https://github.com/Sofiyayan/Sofiyayan)  
