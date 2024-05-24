@@ -207,10 +207,6 @@
 `[02/26 20:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
 `[02/26 00:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Sofiyayan/Sofiyayan](https://github.com/Sofiyayan/Sofiyayan)  
 `[02/23 13:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-data-lib`</span>  
-`[02/23 11:48]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#18` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
-`[02/23 11:47]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#27` in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-data-lib`</span>  
-`[02/23 11:45]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feat/FT-1956-User-Below-Camera-Followers/Following-list` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
-`[02/23 11:45]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feature/FT-1956-User-Below-Camera-Follower` in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-data-lib`</span>  
 
 </details>
 <!--END_SECTION:activity-->
