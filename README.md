@@ -207,8 +207,7 @@
 `[02/27 14:55]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feat/community` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
 `[02/27 14:53]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR `#18` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
 `[02/27 14:53]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `feat/FT-1956-User-Below-Camera-Followers/Following-list` from <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
-`[02/27 14:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `16` commits in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
-`[02/27 14:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `17` commits in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-data-lib`</span>  
+`[02/27 14:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `15` commits in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
 
 </details>
 <!--END_SECTION:activity-->
