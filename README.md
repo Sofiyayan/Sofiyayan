@@ -220,7 +220,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 28.5 kB Used in GitHub's Storage 
+> 📦 28.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -280,7 +282,7 @@ HCL                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sofiyayan/Sofiyayan/master/assets/bar_graph.png)
 
 
- Last Updated on 29/05/2024 01:04:58 UTC
+ Last Updated on 30/05/2024 01:01:52 UTC
 <!--END_SECTION:waka-->
 
 
