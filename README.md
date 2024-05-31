@@ -37,6 +37,9 @@
 ### 💫 Latest Activities
 
 <!--START_SECTION:activity-->
+`[05/31 16:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
+`[05/31 16:10]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#69` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
+`[05/31 16:10]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `hotfix/register-notification` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
 `[05/31 13:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `27` commits in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
 `[05/31 13:06]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#68` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
 `[05/31 13:05]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `hotfix/push_notifications` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
@@ -44,12 +47,12 @@
 `[05/30 18:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-data-lib`</span>  
 `[05/30 18:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `23` commits in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
 `[05/30 18:13]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feat/firebase_notifications` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
-`[05/30 14:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒Sofiyayan/medical_notes`</span>  
-`[05/30 10:41]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#63` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
-`[05/30 10:41]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feat/flash-card_clip-details-with-details` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
 
 <details><summary>Show More</summary>
 
+`[05/30 14:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒Sofiyayan/medical_notes`</span>  
+`[05/30 10:41]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#63` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
+`[05/30 10:41]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feat/flash-card_clip-details-with-details` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
 `[05/30 06:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-data-lib`</span>  
 `[05/30 06:09]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#54` in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-data-lib`</span>  
 `[05/30 06:08]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#62` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
@@ -213,7 +216,6 @@
 `[03/04 17:44]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `hotfix/requests_tablename` in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-data-lib`</span>  
 `[03/04 00:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Sofiyayan/Sofiyayan](https://github.com/Sofiyayan/Sofiyayan)  
 `[03/01 14:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
-`[03/01 09:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-data-lib`</span>  
 
 </details>
 <!--END_SECTION:activity-->
