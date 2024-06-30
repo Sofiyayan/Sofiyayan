@@ -229,8 +229,6 @@
 
 > 📦 28.8 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 12 Public Repositories 
@@ -289,7 +287,7 @@ HCL                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sofiyayan/Sofiyayan/master/assets/bar_graph.png)
 
 
- Last Updated on 29/06/2024 01:02:52 UTC
+ Last Updated on 30/06/2024 01:09:02 UTC
 <!--END_SECTION:waka-->
 
 
