@@ -37,19 +37,23 @@
 ### 💫 Latest Activities
 
 <!--START_SECTION:activity-->
+`[09/04 16:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in <span title="Private Repo">`🔒Sofiyayan/casepal_trials`</span>  
+`[09/04 16:45]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR `#3` in <span title="Private Repo">`🔒Sofiyayan/casepal_trials`</span>  
+`[09/04 16:45]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#3` in <span title="Private Repo">`🔒Sofiyayan/casepal_trials`</span>  
+`[09/04 16:44]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feat/fuzzy_search` in <span title="Private Repo">`🔒Sofiyayan/casepal_trials`</span>  
 `[09/04 01:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `14` commits in [Sofiyayan/Sofiyayan](https://github.com/Sofiyayan/Sofiyayan)  
 `[08/21 23:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in <span title="Private Repo">`🔒Sofiyayan/medical_notes`</span>  
 `[08/21 01:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Sofiyayan/Sofiyayan](https://github.com/Sofiyayan/Sofiyayan)  
 `[08/20 00:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in <span title="Private Repo">`🔒Sofiyayan/medical_notes`</span>  
 `[08/19 21:31]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `vestion/v1` in <span title="Private Repo">`🔒Sofiyayan/medical_notes`</span>  
 `[08/19 21:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in <span title="Private Repo">`🔒Sofiyayan/medical_notes`</span>  
+
+<details><summary>Show More</summary>
+
 `[08/19 01:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [Sofiyayan/Sofiyayan](https://github.com/Sofiyayan/Sofiyayan)  
 `[08/14 09:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [awslabs/genai-bedrock-agent-chatbot](https://github.com/awslabs/genai-bedrock-agent-chatbot)  
 `[08/14 08:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [build-on-aws/amazon-bedrock-agents-outfit-assistant](https://github.com/build-on-aws/amazon-bedrock-agents-outfit-assistant)  
 `[08/14 01:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Sofiyayan/Sofiyayan](https://github.com/Sofiyayan/Sofiyayan)  
-
-<details><summary>Show More</summary>
-
 `[08/13 14:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒Sofiyayan/casepal_trials`</span>  
 `[08/13 01:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Sofiyayan/Sofiyayan](https://github.com/Sofiyayan/Sofiyayan)  
 `[08/12 18:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in <span title="Private Repo">`🔒Sofiyayan/casepal_trials`</span>  
@@ -155,7 +159,7 @@
 `[06/25 12:49]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#93` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
 `[06/25 12:49]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `bugfix/received-logic` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
 `[06/25 01:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Sofiyayan/Sofiyayan](https://github.com/Sofiyayan/Sofiyayan)  
-`[06/24 18:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in <span title="Private Repo">`🔒Sofiyayan/medical_notes`</span>  
+`[06/24 18:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in <span title="Private Repo">`🔒Sofiyayan/medical_notes`</span>  
 
 </details>
 <!--END_SECTION:activity-->
