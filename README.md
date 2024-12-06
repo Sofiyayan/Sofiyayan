@@ -37,19 +37,23 @@
 ### 💫 Latest Activities
 
 <!--START_SECTION:activity-->
+`[12/05 18:34]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#115` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
+`[12/05 18:34]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feat/FT-2419-expiration_date` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
+`[12/05 18:11]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#9` in <span title="Private Repo">`🔒Flashtag-Inc/lambda-leaderboard-api`</span>  
+`[12/05 18:11]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#23` in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-lambda-video-api`</span>  
 `[12/05 17:39]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feat/FT-2419-expiration_date` in <span title="Private Repo">`🔒Flashtag-Inc/lambda-leaderboard-api`</span>  
 `[12/05 17:18]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feat/FT-2419-expirtation_date` in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-lambda-video-api`</span>  
 `[12/05 12:21]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#47` in <span title="Private Repo">`🔒Sofiyayan/casepal_trials`</span>  
 `[12/05 12:20]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feat/patient_parsing_param_changed` in <span title="Private Repo">`🔒Sofiyayan/casepal_trials`</span>  
 `[12/05 09:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-lambda-video-api`</span>  
 `[12/05 01:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Sofiyayan/Sofiyayan](https://github.com/Sofiyayan/Sofiyayan)  
+
+<details><summary>Show More</summary>
+
 `[12/04 12:37]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#8` in <span title="Private Repo">`🔒Flashtag-Inc/lambda-leaderboard-api`</span>  
 `[12/04 12:37]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feat/FT-2438-Add-flags-for-Trophy` in <span title="Private Repo">`🔒Flashtag-Inc/lambda-leaderboard-api`</span>  
 `[12/04 11:48]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#22` in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-lambda-video-api`</span>  
 `[12/04 11:47]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feat/FT-2438-Add-flags-for-Trophy` in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-lambda-video-api`</span>  
-
-<details><summary>Show More</summary>
-
 `[12/04 01:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Sofiyayan/Sofiyayan](https://github.com/Sofiyayan/Sofiyayan)  
 `[12/02 15:18]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feat/patient_update_task` in <span title="Private Repo">`🔒Sofiyayan/casepal_trials`</span>  
 `[12/02 12:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒Sofiyayan/casepal_trials`</span>  
@@ -207,10 +211,6 @@
 `[10/23 15:03]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `dev` in <span title="Private Repo">`🔒Sofiyayan/casepal_trials`</span>  
 `[10/23 15:00]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dev` from <span title="Private Repo">`🔒Sofiyayan/casepal_trials`</span>  
 `[10/23 14:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `20` commits in <span title="Private Repo">`🔒Sofiyayan/casepal_trials`</span>  
-`[10/22 15:45]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#11` in <span title="Private Repo">`🔒Sofiyayan/casepal_trials`</span>  
-`[10/22 15:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒Sofiyayan/casepal_trials`</span>  
-`[10/22 15:43]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feat/patient_chat_ws` in <span title="Private Repo">`🔒Sofiyayan/casepal_trials`</span>  
-`[10/22 15:17]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR `#10` in <span title="Private Repo">`🔒Sofiyayan/casepal_trials`</span>  
 
 </details>
 <!--END_SECTION:activity-->
