@@ -37,6 +37,8 @@
 ### 💫 Latest Activities
 
 <!--START_SECTION:activity-->
+`[12/24 12:58]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#131` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
+`[12/24 12:57]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `bugfix/FT-2507-My-Network-Followings-in-followers-the-user-sees-his-profile-(Above-Camera)` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
 `[12/24 12:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
 `[12/24 01:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Sofiyayan/Sofiyayan](https://github.com/Sofiyayan/Sofiyayan)  
 `[12/23 14:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒Sofiyayan/casepal_trials`</span>  
@@ -45,11 +47,11 @@
 `[12/20 16:46]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feat/jwks_endpoint` in <span title="Private Repo">`🔒Sofiyayan/casepal_trials`</span>  
 `[12/20 13:32]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#130` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
 `[12/20 13:31]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feat/FT-2503-Community-New-Students-Show-class-instead-of-school-(Below-Camera)-class_name` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
-`[12/20 12:41]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#129` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
-`[12/20 12:41]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `bugfix/FT-2502-Cash-prizes-My-Points-Invite-Points-incorrect-number-of-invite-points-(Below-Camera)` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
 
 <details><summary>Show More</summary>
 
+`[12/20 12:41]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#129` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
+`[12/20 12:41]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `bugfix/FT-2502-Cash-prizes-My-Points-Invite-Points-incorrect-number-of-invite-points-(Below-Camera)` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
 `[12/20 11:34]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#9` in <span title="Private Repo">`🔒Flashtag-Inc/lambda-task-video-state-handling`</span>  
 `[12/20 11:11]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `fix/availability_flags` in <span title="Private Repo">`🔒Flashtag-Inc/lambda-task-video-state-handling`</span>  
 `[12/20 01:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Sofiyayan/Sofiyayan](https://github.com/Sofiyayan/Sofiyayan)  
@@ -237,7 +239,6 @@
 `[11/05 18:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in <span title="Private Repo">`🔒Sofiyayan/casepal_trials`</span>  
 `[11/05 13:53]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed `#18` in <span title="Private Repo">`🔒Sofiyayan/casepal_trials`</span>  
 `[11/05 13:52]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed `#18` in <span title="Private Repo">`🔒Sofiyayan/casepal_trials`</span>  
-`[11/05 13:46]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed `#18` in <span title="Private Repo">`🔒Sofiyayan/casepal_trials`</span>  
 
 </details>
 <!--END_SECTION:activity-->
