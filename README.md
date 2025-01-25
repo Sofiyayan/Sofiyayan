@@ -252,7 +252,7 @@
 `[11/26 18:26]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR `#18` in <span title="Private Repo">`🔒Sofiyayan/casepal_trials`</span>  
 `[11/26 18:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in <span title="Private Repo">`🔒Sofiyayan/casepal_trials`</span>  
 `[11/26 18:18]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR `#44` in <span title="Private Repo">`🔒Sofiyayan/casepal_trials`</span>  
-`[11/26 18:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in <span title="Private Repo">`🔒Sofiyayan/casepal_trials`</span>  
+`[11/26 18:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒Sofiyayan/casepal_trials`</span>  
 
 </details>
 <!--END_SECTION:activity-->
