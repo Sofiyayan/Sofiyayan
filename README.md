@@ -37,19 +37,23 @@
 ### 💫 Latest Activities
 
 <!--START_SECTION:activity-->
+`[01/30 13:31]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#78` in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-data-lib`</span>  
+`[01/30 13:31]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feat/FT-2610` in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-data-lib`</span>  
+`[01/30 13:30]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#152` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
+`[01/30 13:30]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feat/FT-2610` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
 `[01/30 10:17]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#151` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
 `[01/30 10:16]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feat/FT-2607` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
 `[01/30 01:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Sofiyayan/Sofiyayan](https://github.com/Sofiyayan/Sofiyayan)  
 `[01/29 17:47]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#149` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
 `[01/29 17:46]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feat/remove_user_top_post_usage` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
 `[01/29 01:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Sofiyayan/Sofiyayan](https://github.com/Sofiyayan/Sofiyayan)  
+
+<details><summary>Show More</summary>
+
 `[01/28 15:43]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#148` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
 `[01/28 15:43]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feat/FT-2599` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
 `[01/28 15:28]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#147` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
 `[01/28 15:28]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feat/FT-2579` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
-
-<details><summary>Show More</summary>
-
 `[01/28 01:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Sofiyayan/Sofiyayan](https://github.com/Sofiyayan/Sofiyayan)  
 `[01/27 20:15]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#27` in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-lambda-video-api`</span>  
 `[01/27 20:15]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feat/FT-2596` in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-lambda-video-api`</span>  
