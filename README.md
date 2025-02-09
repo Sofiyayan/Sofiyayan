@@ -177,8 +177,6 @@
 `[01/13 09:16]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#139` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
 `[01/13 09:16]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feat/FT-2541-Replace-relation-in-My-Network-to-make-it-work-the-same-as-in-Flash-Card` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
 `[01/13 01:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Sofiyayan/Sofiyayan](https://github.com/Sofiyayan/Sofiyayan)  
-`[01/10 18:29]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#138` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
-`[01/10 18:29]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feat/FT-2550-My-Settings-Delete-photo-` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
 
 </details>
 <!--END_SECTION:activity-->
