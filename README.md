@@ -206,7 +206,6 @@
 `[01/13 10:55]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `bugfix/tag-name-for-global` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
 `[01/13 09:16]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#139` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
 `[01/13 09:16]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feat/FT-2541-Replace-relation-in-My-Network-to-make-it-work-the-same-as-in-Flash-Card` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
-`[01/13 01:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Sofiyayan/Sofiyayan](https://github.com/Sofiyayan/Sofiyayan)  
 
 </details>
 <!--END_SECTION:activity-->
