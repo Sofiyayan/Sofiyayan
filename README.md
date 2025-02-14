@@ -37,6 +37,8 @@
 ### 💫 Latest Activities
 
 <!--START_SECTION:activity-->
+`[02/14 16:05]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#8` in <span title="Private Repo">`🔒Flashtag-Inc/lambda-reactions-api`</span>  
+`[02/14 16:05]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `fix/req-update-25` in <span title="Private Repo">`🔒Flashtag-Inc/lambda-reactions-api`</span>  
 `[02/14 16:02]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#85` in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-data-lib`</span>  
 `[02/14 16:02]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `fix/remove-remaining-notification-usage` in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-data-lib`</span>  
 `[02/14 15:09]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `fix/req-update` from <span title="Private Repo">`🔒Flashtag-Inc/lambda-reactions-api`</span>  
@@ -45,11 +47,11 @@
 `[02/14 15:08]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#7` in <span title="Private Repo">`🔒Flashtag-Inc/lambda-reactions-api`</span>  
 `[02/14 15:08]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `fix/req-update` in <span title="Private Repo">`🔒Flashtag-Inc/lambda-reactions-api`</span>  
 `[02/14 12:44]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#2` in <span title="Private Repo">`🔒Flashtag-Inc/lambda-admin-api`</span>  
-`[02/14 12:44]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feat/fix-FT-2645` in <span title="Private Repo">`🔒Flashtag-Inc/lambda-admin-api`</span>  
-`[02/14 11:33]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `feat/fix-FT-2610` from <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
 
 <details><summary>Show More</summary>
 
+`[02/14 12:44]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feat/fix-FT-2645` in <span title="Private Repo">`🔒Flashtag-Inc/lambda-admin-api`</span>  
+`[02/14 11:33]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `feat/fix-FT-2610` from <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
 `[02/14 11:33]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR `#170` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
 `[02/14 11:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `14` commits in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
 `[02/13 13:21]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#28` in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-lambda-video-api`</span>  
