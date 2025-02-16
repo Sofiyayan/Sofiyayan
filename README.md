@@ -201,7 +201,7 @@
 `[01/17 15:32]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed `#54` in <span title="Private Repo">`🔒Sofiyayan/casepal_trials`</span>  
 `[01/17 14:59]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed `#54` in <span title="Private Repo">`🔒Sofiyayan/casepal_trials`</span>  
 `[01/17 14:52]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR `#59` in <span title="Private Repo">`🔒Sofiyayan/casepal_trials`</span>  
-`[01/17 14:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in <span title="Private Repo">`🔒Sofiyayan/casepal_trials`</span>  
+`[01/17 14:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in <span title="Private Repo">`🔒Sofiyayan/casepal_trials`</span>  
 
 </details>
 <!--END_SECTION:activity-->
