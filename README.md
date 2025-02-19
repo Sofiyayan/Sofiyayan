@@ -37,6 +37,8 @@
 ### 💫 Latest Activities
 
 <!--START_SECTION:activity-->
+`[02/19 14:11]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#68` in <span title="Private Repo">`🔒Sofiyayan/casepal_trials`</span>  
+`[02/19 14:06]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feat/exclude-patients-parsed-after-feb-1` in <span title="Private Repo">`🔒Sofiyayan/casepal_trials`</span>  
 `[02/18 18:12]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#175` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
 `[02/18 18:11]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feat/FT-2610-highlight-fix` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
 `[02/18 15:55]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#174` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
@@ -45,11 +47,11 @@
 `[02/18 15:52]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#88` in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-data-lib`</span>  
 `[02/18 15:52]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feat/FT-2641-remove-blocked-from-send-receive` in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-data-lib`</span>  
 `[02/18 01:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Sofiyayan/Sofiyayan](https://github.com/Sofiyayan/Sofiyayan)  
-`[02/17 17:08]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#87` in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-data-lib`</span>  
-`[02/17 17:05]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feat/FT-2675` in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-data-lib`</span>  
 
 <details><summary>Show More</summary>
 
+`[02/17 17:08]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#87` in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-data-lib`</span>  
+`[02/17 17:05]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feat/FT-2675` in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-data-lib`</span>  
 `[02/17 14:22]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#173` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
 `[02/17 14:22]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feat/FT-2641-disable-self-buttons` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
 `[02/17 14:20]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#86` in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-data-lib`</span>  
