@@ -294,8 +294,6 @@
 `[02/25 14:07]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `fix/global-notification` in <span title="Private Repo">`🔒Flashtag-Inc/lambda-task-notification-handler`</span>  
 `[02/25 12:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒Flashtag-Inc/lambda-leaderboard-api`</span>  
 `[02/25 01:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Sofiyayan/Sofiyayan](https://github.com/Sofiyayan/Sofiyayan)  
-`[02/24 16:51]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `feat/FT-2746` from <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
-`[02/24 16:51]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR `#179` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
 
 </details>
 <!--END_SECTION:activity-->
