@@ -37,6 +37,21 @@
 ### 💫 Latest Activities
 
 <!--START_SECTION:activity-->
+`[04/08 14:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-lambda-video-api`</span>  
+`[04/08 14:36]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR `#44` in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-lambda-video-api`</span>  
+`[04/08 14:36]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `fiix/allowed-tag-name` from <span title="Private Repo">`🔒Flashtag-Inc/flashtap-lambda-video-api`</span>  
+`[04/08 14:35]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#44` in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-lambda-video-api`</span>  
+`[04/08 14:35]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `fiix/allowed-tag-name` in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-lambda-video-api`</span>  
+`[04/08 14:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-lambda-video-api`</span>  
+`[04/08 14:26]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `fix/allowed-tag-name` from <span title="Private Repo">`🔒Flashtag-Inc/flashtap-lambda-video-api`</span>  
+`[04/08 14:26]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR `#43` in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-lambda-video-api`</span>  
+`[04/08 14:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-lambda-video-api`</span>  
+`[04/08 14:25]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#43` in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-lambda-video-api`</span>  
+
+<details><summary>Show More</summary>
+
+`[04/08 14:25]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `fix/allowed-tag-name` in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-lambda-video-api`</span>  
+`[04/08 13:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
 `[04/08 13:35]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#228` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
 `[04/08 13:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
 `[04/08 13:35]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feat/FT-2922-new` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
@@ -47,9 +62,6 @@
 `[04/08 13:30]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#106` in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-data-lib`</span>  
 `[04/08 13:29]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `fix/FT-2931` in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-data-lib`</span>  
 `[04/08 13:06]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#14` in <span title="Private Repo">`🔒Flashtag-Inc/lambda-reactions-api`</span>  
-
-<details><summary>Show More</summary>
-
 `[04/08 13:06]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `fix/FT-2931` in <span title="Private Repo">`🔒Flashtag-Inc/lambda-reactions-api`</span>  
 `[04/08 13:02]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR `#26` in <span title="Private Repo">`🔒Flashtag-Inc/lambda-leaderboard-api`</span>  
 `[04/08 13:02]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `feat/FT-2922` from <span title="Private Repo">`🔒Flashtag-Inc/lambda-leaderboard-api`</span>  
@@ -321,15 +333,6 @@
 `[03/28 10:57]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#35` in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-lambda-video-api`</span>  
 `[03/28 10:56]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feat/FT-2771` in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-lambda-video-api`</span>  
 `[03/28 09:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
-`[03/28 09:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-data-lib`</span>  
-`[03/28 09:14]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#100` in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-data-lib`</span>  
-`[03/28 09:14]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#202` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
-`[03/28 09:13]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feat/FT-2755` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
-`[03/28 08:57]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feat/FT-2755` in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-data-lib`</span>  
-`[03/28 01:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Sofiyayan/Sofiyayan](https://github.com/Sofiyayan/Sofiyayan)  
-`[03/27 18:33]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#99` in <span title="Private Repo">`🔒shatskiym/casepal_trials`</span>  
-`[03/27 18:33]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feat/handling-active-runs` in <span title="Private Repo">`🔒shatskiym/casepal_trials`</span>  
-`[03/27 17:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in <span title="Private Repo">`🔒shatskiym/casepal_trials`</span>  
 
 </details>
 <!--END_SECTION:activity-->
