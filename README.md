@@ -37,19 +37,24 @@
 ### 💫 Latest Activities
 
 <!--START_SECTION:activity-->
+`[05/05 13:01]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `fix/FT-2951` from <span title="Private Repo">`🔒Flashtag-Inc/lambda-admin-api`</span>  
+`[05/05 13:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒Flashtag-Inc/lambda-admin-api`</span>  
+`[05/05 13:01]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR `#44` in <span title="Private Repo">`🔒Flashtag-Inc/lambda-admin-api`</span>  
+`[05/05 13:01]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#44` in <span title="Private Repo">`🔒Flashtag-Inc/lambda-admin-api`</span>  
+`[05/05 13:00]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `fix/FT-2951` in <span title="Private Repo">`🔒Flashtag-Inc/lambda-admin-api`</span>  
 `[05/05 11:30]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `feat/FT-2951` from <span title="Private Repo">`🔒Flashtag-Inc/lambda-admin-api`</span>  
 `[05/05 11:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒Flashtag-Inc/lambda-admin-api`</span>  
 `[05/05 11:30]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR `#43` in <span title="Private Repo">`🔒Flashtag-Inc/lambda-admin-api`</span>  
 `[05/05 11:28]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#43` in <span title="Private Repo">`🔒Flashtag-Inc/lambda-admin-api`</span>  
 `[05/05 11:27]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feat/FT-2951` in <span title="Private Repo">`🔒Flashtag-Inc/lambda-admin-api`</span>  
+
+<details><summary>Show More</summary>
+
 `[05/05 09:32]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `rollback/debug-print` from <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
 `[05/05 09:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
 `[05/05 09:31]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `rollback/debug-print` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
 `[05/05 09:25]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `bugfix/debug-print` from <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
 `[05/05 09:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
-
-<details><summary>Show More</summary>
-
 `[05/05 09:25]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR `#261` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
 `[05/05 09:25]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#261` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
 `[05/05 09:25]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `bugfix/debug-print` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
@@ -322,11 +327,6 @@
 `[04/18 14:14]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feat/FT-2961` in <span title="Private Repo">`🔒Flashtag-Inc/lambda-task-user-state-handling`</span>  
 `[04/18 14:10]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feat/FT-2961` in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-data-lib`</span>  
 `[04/18 14:09]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feat/FT-2961` in <span title="Private Repo">`🔒Flashtag-Inc/lambda-task-notification-handler`</span>  
-`[04/18 14:07]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feat/FT-2961` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
-`[04/18 12:48]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `feat/FT-2936-fix` from <span title="Private Repo">`🔒Flashtag-Inc/lambda-leaderboard-api`</span>  
-`[04/18 12:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒Flashtag-Inc/lambda-leaderboard-api`</span>  
-`[04/18 12:48]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR `#30` in <span title="Private Repo">`🔒Flashtag-Inc/lambda-leaderboard-api`</span>  
-`[04/18 12:47]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#30` in <span title="Private Repo">`🔒Flashtag-Inc/lambda-leaderboard-api`</span>  
 
 </details>
 <!--END_SECTION:activity-->
