@@ -37,19 +37,23 @@
 ### 💫 Latest Activities
 
 <!--START_SECTION:activity-->
-`[05/06 13:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒Flashtag-Inc/lambda-video-gen-bot`</span>  
+`[05/06 13:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in <span title="Private Repo">`🔒Flashtag-Inc/lambda-video-gen-bot`</span>  
+`[05/06 13:39]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR `#3` in <span title="Private Repo">`🔒Flashtag-Inc/lambda-video-gen-bot`</span>  
+`[05/06 13:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒Flashtag-Inc/lambda-video-gen-bot`</span>  
+`[05/06 13:33]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#3` in <span title="Private Repo">`🔒Flashtag-Inc/lambda-video-gen-bot`</span>  
+`[05/06 13:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in <span title="Private Repo">`🔒Flashtag-Inc/lambda-video-gen-bot`</span>  
 `[05/06 13:05]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR `#2` in <span title="Private Repo">`🔒Flashtag-Inc/lambda-video-gen-bot`</span>  
 `[05/06 13:05]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#2` in <span title="Private Repo">`🔒Flashtag-Inc/lambda-video-gen-bot`</span>  
 `[05/06 13:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒Flashtag-Inc/lambda-video-gen-bot`</span>  
 `[05/06 12:42]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR `#1` in <span title="Private Repo">`🔒Flashtag-Inc/lambda-video-gen-bot`</span>  
 `[05/06 12:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒Flashtag-Inc/lambda-video-gen-bot`</span>  
+
+<details><summary>Show More</summary>
+
 `[05/06 12:42]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#1` in <span title="Private Repo">`🔒Flashtag-Inc/lambda-video-gen-bot`</span>  
 `[05/06 12:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒Flashtag-Inc/lambda-video-gen-bot`</span>  
 `[05/06 01:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Sofiyayan/Sofiyayan](https://github.com/Sofiyayan/Sofiyayan)  
 `[05/05 15:32]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `feat/FT-3060` from <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
-
-<details><summary>Show More</summary>
-
 `[05/05 15:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
 `[05/05 15:32]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR `#262` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
 `[05/05 15:31]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#262` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
@@ -325,11 +329,6 @@
 `[04/23 17:14]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `feat/FT-2958` from <span title="Private Repo">`🔒Flashtag-Inc/lambda-post-comments`</span>  
 `[04/23 17:14]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `feat/FT-2980` from <span title="Private Repo">`🔒Flashtag-Inc/lambda-post-comments`</span>  
 `[04/23 17:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒Flashtag-Inc/lambda-post-comments`</span>  
-`[04/23 17:13]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR `#8` in <span title="Private Repo">`🔒Flashtag-Inc/lambda-post-comments`</span>  
-`[04/23 17:13]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#242` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
-`[04/23 17:13]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#8` in <span title="Private Repo">`🔒Flashtag-Inc/lambda-post-comments`</span>  
-`[04/23 17:12]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feat/FT-2980` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
-`[04/23 15:45]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feat/FT-2980` in <span title="Private Repo">`🔒Flashtag-Inc/lambda-post-comments`</span>  
 
 </details>
 <!--END_SECTION:activity-->
