@@ -37,19 +37,23 @@
 ### 💫 Latest Activities
 
 <!--START_SECTION:activity-->
+`[05/29 11:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-data-lib`</span>  
+`[05/29 11:38]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#134` in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-data-lib`</span>  
+`[05/29 11:38]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#285` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
+`[05/29 11:37]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feat/FT-3167` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
 `[05/29 11:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-data-lib`</span>  
 `[05/29 11:04]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feat/FT-3167` in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-data-lib`</span>  
 `[05/29 09:21]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `feat/FT-3168` from <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
 `[05/29 09:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
 `[05/29 09:21]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR `#284` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
 `[05/29 09:18]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `create-pull-request/patch-u8jhcar` from <span title="Private Repo">`🔒Flashtag-Inc/flashtap-pypi`</span>  
+
+<details><summary>Show More</summary>
+
 `[05/29 09:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-pypi`</span>  
 `[05/29 09:18]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR `#199` in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-pypi`</span>  
 `[05/29 09:17]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `feat/FT-3168` from <span title="Private Repo">`🔒Flashtag-Inc/flashtap-data-lib`</span>  
 `[05/29 09:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-data-lib`</span>  
-
-<details><summary>Show More</summary>
-
 `[05/29 09:17]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR `#133` in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-data-lib`</span>  
 `[05/29 09:15]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#284` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
 `[05/29 09:15]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feat/FT-3168` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
@@ -310,10 +314,6 @@
 `[05/07 11:02]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR `#191` in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-pypi`</span>  
 `[05/07 11:02]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `create-pull-request/patch-y8tmbyx` from <span title="Private Repo">`🔒Flashtag-Inc/flashtap-pypi`</span>  
 `[05/07 11:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-pypi`</span>  
-`[05/07 11:01]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#263` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
-`[05/07 11:01]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feat/FT-3076` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
-`[05/07 11:00]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `feat/FT-3076` from <span title="Private Repo">`🔒Flashtag-Inc/flashtap-data-lib`</span>  
-`[05/07 11:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-data-lib`</span>  
 
 </details>
 <!--END_SECTION:activity-->
