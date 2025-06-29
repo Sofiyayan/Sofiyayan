@@ -37,7 +37,7 @@
 ### 💫 Latest Activities
 
 <!--START_SECTION:activity-->
-`[06/28 01:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Sofiyayan/Sofiyayan](https://github.com/Sofiyayan/Sofiyayan)  
+`[06/29 01:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Sofiyayan/Sofiyayan](https://github.com/Sofiyayan/Sofiyayan)  
 `[06/27 18:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒shatskiym/casepal_trials`</span>  
 `[06/27 15:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in <span title="Private Repo">`🔒Sofiyayan/insurance_payment_analysis`</span>  
 `[06/27 01:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Sofiyayan/Sofiyayan](https://github.com/Sofiyayan/Sofiyayan)  
@@ -190,25 +190,6 @@
 `[05/30 07:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒Flashtag-Inc/lambda-admin-api`</span>  
 `[05/30 01:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Sofiyayan/Sofiyayan](https://github.com/Sofiyayan/Sofiyayan)  
 `[05/29 17:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒Flashtag-Inc/lambda-admin-api`</span>  
-`[05/29 13:15]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `fix/school-options-19-yrs` from <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
-`[05/29 13:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
-`[05/29 13:15]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR `#287` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
-`[05/29 13:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-pypi`</span>  
-`[05/29 13:13]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `create-pull-request/patch-jmrhih4` from <span title="Private Repo">`🔒Flashtag-Inc/flashtap-pypi`</span>  
-`[05/29 13:13]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR `#203` in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-pypi`</span>  
-`[05/29 13:12]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `fix/school-options-for-19` from <span title="Private Repo">`🔒Flashtag-Inc/flashtap-data-lib`</span>  
-`[05/29 13:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-data-lib`</span>  
-`[05/29 13:12]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR `#135` in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-data-lib`</span>  
-`[05/29 13:09]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `create-pull-request/patch-5qvqsh8` from <span title="Private Repo">`🔒Flashtag-Inc/flashtap-pypi`</span>  
-`[05/29 13:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-pypi`</span>  
-`[05/29 13:09]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR `#202` in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-pypi`</span>  
-`[05/29 13:04]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#287` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
-`[05/29 13:04]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `fix/school-options-19-yrs` in <span title="Private Repo">`🔒Flashtag-Inc/flashtag-backend`</span>  
-`[05/29 13:03]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `create-pull-request/patch-s7vhdlx` from <span title="Private Repo">`🔒Flashtag-Inc/flashtap-pypi`</span>  
-`[05/29 13:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-pypi`</span>  
-`[05/29 13:03]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR `#201` in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-pypi`</span>  
-`[05/29 13:00]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#135` in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-data-lib`</span>  
-`[05/29 13:00]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `fix/school-options-for-19` in <span title="Private Repo">`🔒Flashtag-Inc/flashtap-data-lib`</span>  
 
 </details>
 <!--END_SECTION:activity-->
