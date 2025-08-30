@@ -37,19 +37,23 @@
 ### 💫 Latest Activities
 
 <!--START_SECTION:activity-->
+`[08/29 13:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
+`[08/29 13:22]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR `#33` in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
+`[08/29 13:17]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#33` in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
+`[08/29 13:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
 `[08/29 11:58]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feat/advanced-filters-params` in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
 `[08/29 10:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
 `[08/29 10:15]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR `#28` in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
 `[08/29 10:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
 `[08/29 01:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Sofiyayan/Sofiyayan](https://github.com/Sofiyayan/Sofiyayan)  
 `[08/28 22:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
+
+<details><summary>Show More</summary>
+
 `[08/28 17:05]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR `#32` in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
 `[08/28 17:03]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#32` in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
 `[08/28 17:03]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feat/allscripts` in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
 `[08/28 12:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
-
-<details><summary>Show More</summary>
-
 `[08/28 12:22]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR `#31` in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
 `[08/28 12:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `12` commits in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
 `[08/27 08:05]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR `#30` in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
