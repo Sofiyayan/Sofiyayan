@@ -121,7 +121,7 @@
 `[08/01 16:21]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `fix/comment-out` in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
 `[08/01 13:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
 `[08/01 01:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Sofiyayan/Sofiyayan](https://github.com/Sofiyayan/Sofiyayan)  
-`[07/31 16:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
+`[07/31 16:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
 
 </details>
 <!--END_SECTION:activity-->
