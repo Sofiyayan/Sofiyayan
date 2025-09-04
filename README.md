@@ -113,8 +113,7 @@
 `[08/04 17:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `14` commits in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
 `[08/04 12:39]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR `#13` in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
 `[08/04 12:38]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#13` in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
-`[08/04 12:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `26` commits in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
-`[08/04 09:50]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feat/add-new-params` in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
+`[08/04 12:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `25` commits in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
 
 </details>
 <!--END_SECTION:activity-->
