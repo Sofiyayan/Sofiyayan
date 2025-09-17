@@ -124,8 +124,6 @@
 
 ### 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-391%20hrs%2027%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.6%20million%20lines%20of%20code-blue)
@@ -140,42 +138,6 @@
  > 
 > 🔑 36 Private Repository 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                155 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-🌆 Daytime                7352 commits        ██████████████░░░░░░░░░░░   54.00 % 
-🌃 Evening                5481 commits        ██████████░░░░░░░░░░░░░░░   40.26 % 
-🌙 Night                  627 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   2971 commits        █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
-Tuesday                  2222 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
-Wednesday                2647 commits        █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
-Thursday                 3516 commits        ██████░░░░░░░░░░░░░░░░░░░   25.82 % 
-Friday                   2051 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
-Saturday                 113 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
-Sunday                   95 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Yerevan
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -193,7 +155,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sofiyayan/Sofiyayan/master/assets/bar_graph.png)
 
 
- Last Updated on 16/09/2025 01:21:45 UTC
+ Last Updated on 17/09/2025 01:21:35 UTC
 <!--END_SECTION:waka-->
 
 
