@@ -102,15 +102,13 @@
 
 ### 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-391%20hrs%2027%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.2%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.3%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 32.5 kB Used in GitHub's Storage 
+> 📦 32.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -118,42 +116,6 @@
  > 
 > 🔑 36 Private Repository 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                237 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
-🌆 Daytime                9625 commits        ██████████████░░░░░░░░░░░   55.45 % 
-🌃 Evening                6679 commits        ██████████░░░░░░░░░░░░░░░   38.48 % 
-🌙 Night                  816 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   3773 commits        █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
-Tuesday                  2721 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
-Wednesday                3418 commits        █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
-Thursday                 4524 commits        ███████░░░░░░░░░░░░░░░░░░   26.06 % 
-Friday                   2668 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-Saturday                 131 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
-Sunday                   122 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Yerevan
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -171,7 +133,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sofiyayan/Sofiyayan/master/assets/bar_graph.png)
 
 
- Last Updated on 02/10/2025 01:22:00 UTC
+ Last Updated on 03/10/2025 01:21:53 UTC
 <!--END_SECTION:waka-->
 
 
