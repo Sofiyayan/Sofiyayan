@@ -84,9 +84,6 @@
 `[09/09 11:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
 `[09/08 13:08]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feat/parsing-cost-cut` in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
 `[09/08 01:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Sofiyayan/Sofiyayan](https://github.com/Sofiyayan/Sofiyayan)  
-`[09/04 15:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
-`[09/04 15:40]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR `#35` in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
-`[09/04 15:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
 
 </details>
 <!--END_SECTION:activity-->
