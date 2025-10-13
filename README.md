@@ -72,10 +72,6 @@
 `[09/12 17:24]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR `#44` in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
 `[09/12 17:23]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#45` in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
 `[09/12 17:23]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feat/reverted-allscripts` in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
-`[09/12 17:21]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#44` in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
-`[09/12 17:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
-`[09/12 17:01]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR `#43` in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
-`[09/12 17:01]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#43` in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
 
 </details>
 <!--END_SECTION:activity-->
