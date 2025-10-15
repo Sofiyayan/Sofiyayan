@@ -101,9 +101,6 @@
 `[09/15 13:49]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#46` in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
 `[09/15 13:48]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `revert-38-feat/clinics` in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
 `[09/15 13:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
-`[09/12 17:23]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Labeled PR `#45` in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
-`[09/15 12:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `undefined` commits in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
-`[09/12 11:58]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Labeled PR `#41` in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
 
 </details>
 <!--END_SECTION:activity-->
