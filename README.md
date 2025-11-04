@@ -37,6 +37,7 @@
 ### 💫 Latest Activities
 
 <!--START_SECTION:activity-->
+`[11/04 01:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `undefined` commits in [Sofiyayan/Sofiyayan](https://github.com/Sofiyayan/Sofiyayan)  
 `[11/03 18:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
 `[11/03 16:16]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed `#95` in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
 `[11/03 16:15]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed `#95` in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
@@ -46,10 +47,10 @@
 `[11/03 11:33]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed `#95` in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
 `[11/03 11:33]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed `#95` in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
 `[11/03 11:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `undefined` commits in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
-`[11/03 11:28]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed `#95` in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
 
 <details><summary>Show More</summary>
 
+`[11/03 11:28]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed `#95` in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
 `[11/03 11:27]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed `#95` in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
 `[11/03 11:26]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed `#95` in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
 `[11/03 11:26]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed `#95` in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
@@ -94,8 +95,8 @@
 `[10/28 14:19]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feat/task-for-populate-manual-flow` in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
 `[10/28 13:08]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Reopened PR `#62` in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
 `[10/28 12:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `undefined` commits in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
-`[10/28 12:03]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR `#62` in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
 `[09/15 12:56]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR `#41` in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
+`[10/28 12:03]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR `#62` in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
 `[10/08 09:48]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR `#24` in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
 `[10/08 09:48]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR `#6` in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
 `[10/08 09:48]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Labeled PR `#62` in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
