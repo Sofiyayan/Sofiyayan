@@ -37,7 +37,7 @@
 ### 💫 Latest Activities
 
 <!--START_SECTION:activity-->
-`[11/05 12:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `undefined` commits in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
+`[11/05 14:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
 `[11/05 12:40]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#103` in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
 `[11/05 12:40]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feat/task-response-update` in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
 `[11/05 01:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `undefined` commits in [Sofiyayan/Sofiyayan](https://github.com/Sofiyayan/Sofiyayan)  
@@ -111,8 +111,8 @@
 `[10/28 14:19]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feat/task-for-populate-manual-flow` in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
 `[10/28 13:08]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Reopened PR `#62` in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
 `[10/28 12:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `undefined` commits in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
-`[10/28 12:03]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR `#62` in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
 `[09/15 12:56]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR `#41` in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
+`[10/28 12:03]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR `#62` in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
 `[10/08 09:48]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR `#24` in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
 `[10/08 09:48]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR `#6` in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
 `[10/08 09:48]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Labeled PR `#62` in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
@@ -177,8 +177,6 @@
 `[10/16 11:39]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `fix/forgot-password-errors` in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
 `[10/16 11:37]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `fix/crud-usage` in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
 `[10/16 11:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
-`[10/16 09:34]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feat/observations-from-api` in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
-`[10/16 01:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `undefined` commits in [Sofiyayan/Sofiyayan](https://github.com/Sofiyayan/Sofiyayan)  
 
 </details>
 <!--END_SECTION:activity-->
