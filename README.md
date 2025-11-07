@@ -37,6 +37,7 @@
 ### 💫 Latest Activities
 
 <!--START_SECTION:activity-->
+`[11/07 01:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `undefined` commits in [Sofiyayan/Sofiyayan](https://github.com/Sofiyayan/Sofiyayan)  
 `[11/06 18:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `undefined` commits in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
 `[11/06 18:09]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#108` in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
 `[11/06 18:08]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `hotfix/preserve-the-order` in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
@@ -46,10 +47,10 @@
 `[11/06 16:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
 `[11/06 08:43]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed `#105` in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
 `[11/06 08:39]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed `#105` in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
-`[11/06 08:35]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed `#105` in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
 
 <details><summary>Show More</summary>
 
+`[11/06 08:35]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed `#105` in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
 `[11/06 08:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
 `[11/06 01:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `undefined` commits in [Sofiyayan/Sofiyayan](https://github.com/Sofiyayan/Sofiyayan)  
 `[11/05 14:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in <span title="Private Repo">`🔒chartlensiq/chartlensiq_be`</span>  
