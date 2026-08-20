@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0093E9,50:44A6C6,100:80D0C7&height=170&section=header&text=Hi%2C%20I%20am%20Sofiya%20%F0%9F%A6%A6&fontSize=40&fontAlignY=35&animation=fadeIn" alt="header" />
+<img src="https://raw.githubusercontent.com/Sofiyayan/Sofiyayan/master/assets/ocean-header.svg" alt="header" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&center=true&vCenter=true&width=560&lines=Fine-tuned+on+Yerevan.;Grounded+with+citations.;Turning+document+chaos+into+structured+data.;%F0%9F%A6%A6+chilling." alt="typing" />
 
