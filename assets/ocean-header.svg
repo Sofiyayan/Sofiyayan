@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 220" width="1000" height="220">
+  <defs>
+    <linearGradient id="sea" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0b2447"/>
+      <stop offset="0.55" stop-color="#19376d"/>
+      <stop offset="1" stop-color="#146c94"/>
+    </linearGradient>
+    <path id="w" d="M0 30 C 125 60, 250 0, 375 30 C 500 60, 625 0, 750 30 C 875 60, 1000 0, 1125 30 C 1250 60, 1375 0, 1500 30 C 1625 60, 1750 0, 1875 30 C 2000 60, 2000 60, 2000 60 L 2000 120 L 0 120 Z"/>
+  </defs>
+  <rect width="1000" height="220" fill="url(#sea)"/>
+  <text x="500" y="95" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="44" font-weight="700" fill="#eaf6ff">Hi, I am Sofiya 🦦</text>
+  <g transform="translate(0,105)">
+    <use href="#w" fill="#a5d8ff" opacity="0.25">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-750 0" dur="9s" repeatCount="indefinite"/>
+    </use>
+  </g>
+  <g transform="translate(0,120)">
+    <use href="#w" fill="#4facfe" opacity="0.45">
+      <animateTransform attributeName="transform" type="translate" from="-375 0" to="-1125 0" dur="7s" repeatCount="indefinite"/>
+    </use>
+  </g>
+  <g transform="translate(0,135)">
+    <use href="#w" fill="#146c94">
+      <animateTransform attributeName="transform" type="translate" from="-200 0" to="-950 0" dur="5s" repeatCount="indefinite"/>
+    </use>
+  </g>
+  <rect y="200" width="1000" height="20" fill="#146c94"/>
+</svg>
